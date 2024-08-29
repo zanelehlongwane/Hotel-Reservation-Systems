@@ -21,3 +21,6 @@ Dashboard: Users can track their upcoming reservations, view history of their re
 Manage Bookings: Add, update, or delete bookings.
 Customer Information: View and manage guest profiles.
 Billing: Generate and manage invoices and payments, after succesful payments the user receives an email
+
+![image](https://github.com/user-attachments/assets/4ec20887-c7fd-4b3e-9a03-07cfe39f7533)
+
